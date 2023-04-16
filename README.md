@@ -16,7 +16,7 @@ Once you've tapped the repository, you can then install any of the casks that it
 
 ### Yabai Spaces Widget
 
-The Yabai Spaces Widget is a macOS app that adds a widget to your status bar. It works with Yabai and lets you see spaces on all your displays. To install it, run the following command:
+The [Yabai Spaces Widget](https://github.com/grad-dev/yabai-spaces-widget) is a macOS app that adds a widget to your status bar. It works with Yabai and lets you see spaces on all your displays. To install it, run the following command:
 
 ```bash
 brew install grad-dev/tap/yabai-spaces-widget
